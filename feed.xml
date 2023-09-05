@@ -3,31 +3,67 @@
     <title>Space is everything Man</title>
     <link href="https://spaceiseverythingman.com/feed.xml" rel="self" />
     <link href="https://spaceiseverythingman.com" />
-    <updated>2023-09-05T12:34:20+10:00</updated>
+    <updated>2023-09-05T13:18:23+10:00</updated>
     <author>
         <name>Haynezeeboy</name>
     </author>
     <id>https://spaceiseverythingman.com</id>
 
     <entry>
-        <title>Welcome</title>
+        <title>Welcome to the Information Age</title>
         <author>
             <name>Haynezeeboy</name>
         </author>
         <link href="https://spaceiseverythingman.com/welcome.html"/>
         <id>https://spaceiseverythingman.com/welcome.html</id>
+        <media:content url="https://spaceiseverythingman.com/media/posts/1/Information-Age-Poster-Feature.png" medium="image" />
 
-        <updated>2023-09-05T12:34:20+10:00</updated>
+        <updated>2023-09-05T13:18:23+10:00</updated>
             <summary>
                 <![CDATA[
-                    safafsaf&nbsp;
+                        <img src="https://spaceiseverythingman.com/media/posts/1/Information-Age-Poster-Feature.png" alt="" />
+                    You are now living in the Information Age... Everything is possible. Welcome. Relax. 200gsm Satin CMYK, A0 (841mmx1188mm) Buy here
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://spaceiseverythingman.com/media/posts/1/Information-Age-Poster-Feature.png" class="type:primaryImage" alt="" /></p>
                 
   <p>
-    safafsaf&nbsp;
+    You are now living in the Information Age...<br>Everything is possible. <br>Welcome. <br>Relax. <br>
+  </p>
+
+  <p>
+    200gsm Satin CMYK, A0 (841mmx1188mm)
+  </p>
+
+  <p>
+    <a href="https://spaceiseverythingman.bandcamp.com/merch/welcome-to-the-information-age" target="_blank">Buy here</a>
+  </p>
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      <figure class="gallery__item">
+      <a href="https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii.png" data-size="1240x1240">
+        <img loading="lazy" src="https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-3.png" data-size="1240x1240">
+        <img loading="lazy" src="https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-3-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-2.png" data-size="1240x1240">
+        <img loading="lazy" src="https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-2-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure>
+    </div>
+  </div>
+
+  <p>
+    
   </p>
             ]]>
         </content>

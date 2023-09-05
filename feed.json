@@ -12,16 +12,17 @@
         {
             "id": "https://spaceiseverythingman.com/welcome.html",
             "url": "https://spaceiseverythingman.com/welcome.html",
-            "title": "Welcome",
-            "summary": "safafsaf&nbsp;",
-            "content_html": "\n  <p>\n    safafsaf&nbsp;\n  </p>",
+            "title": "Welcome to the Information Age",
+            "summary": "You are now living in the Information Age... Everything is possible. Welcome. Relax. 200gsm Satin CMYK, A0 (841mmx1188mm) Buy here",
+            "content_html": "\n  <p>\n    You are now living in the Information Age...<br>Everything is possible. <br>Welcome. <br>Relax. <br>\n  </p>\n\n  <p>\n    200gsm Satin CMYK, A0 (841mmx1188mm)\n  </p>\n\n  <p>\n    <a href=\"https://spaceiseverythingman.bandcamp.com/merch/welcome-to-the-information-age\" target=\"_blank\">Buy here</a>\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii.png\" data-size=\"1240x1240\">\n        <img loading=\"lazy\" src=\"https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-3.png\" data-size=\"1240x1240\">\n        <img loading=\"lazy\" src=\"https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-3-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-2.png\" data-size=\"1240x1240\">\n        <img loading=\"lazy\" src=\"https://spaceiseverythingman.com/media/posts/1/gallery/Information-Age-Poster-Preview-Publii-2-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>\n\n  <p>\n    \n  </p>",
+            "image": "https://spaceiseverythingman.com/media/posts/1/Information-Age-Poster-Feature.png",
             "author": {
                 "name": "Haynezeeboy"
             },
             "tags": [
             ],
             "date_published": "2023-09-05T12:34:20+10:00",
-            "date_modified": "2023-09-05T12:34:20+10:00"
+            "date_modified": "2023-09-05T13:18:23+10:00"
         }
     ]
 }
