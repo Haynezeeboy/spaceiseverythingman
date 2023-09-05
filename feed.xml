@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Space is everything Man</title>
-    <link href="https://haynezeeboy.github.io/spaceiseverythingman/feed.xml" rel="self" />
-    <link href="https://haynezeeboy.github.io/spaceiseverythingman" />
+    <link href="https://spaceiseverythingman.com/feed.xml" rel="self" />
+    <link href="https://spaceiseverythingman.com" />
     <updated>2023-09-05T12:34:20+10:00</updated>
     <author>
         <name>Haynezeeboy</name>
     </author>
-    <id>https://haynezeeboy.github.io/spaceiseverythingman</id>
+    <id>https://spaceiseverythingman.com</id>
 
     <entry>
         <title>Welcome</title>
         <author>
             <name>Haynezeeboy</name>
         </author>
-        <link href="https://haynezeeboy.github.io/spaceiseverythingman/welcome.html"/>
-        <id>https://haynezeeboy.github.io/spaceiseverythingman/welcome.html</id>
+        <link href="https://spaceiseverythingman.com/welcome.html"/>
+        <id>https://spaceiseverythingman.com/welcome.html</id>
 
         <updated>2023-09-05T12:34:20+10:00</updated>
             <summary>

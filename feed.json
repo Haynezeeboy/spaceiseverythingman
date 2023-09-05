@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Space is everything Man",
     "description": "",
-    "home_page_url": "https://haynezeeboy.github.io/spaceiseverythingman",
-    "feed_url": "https://haynezeeboy.github.io/spaceiseverythingman/feed.json",
+    "home_page_url": "https://spaceiseverythingman.com",
+    "feed_url": "https://spaceiseverythingman.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Haynezeeboy"
     },
     "items": [
         {
-            "id": "https://haynezeeboy.github.io/spaceiseverythingman/welcome.html",
-            "url": "https://haynezeeboy.github.io/spaceiseverythingman/welcome.html",
+            "id": "https://spaceiseverythingman.com/welcome.html",
+            "url": "https://spaceiseverythingman.com/welcome.html",
             "title": "Welcome",
             "summary": "safafsaf&nbsp;",
             "content_html": "\n  <p>\n    safafsaf&nbsp;\n  </p>",
